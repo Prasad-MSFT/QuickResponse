@@ -464,12 +464,12 @@ Admin manifest full description</comment>
 Admin manifest full name</comment>
   </data>
   <data name="AdminManifestShortDescription" xml:space="preserve">
-    <value>Bot do administrador de resposta rápida para ajudá-lo a gerenciar as respostas enviadas ao usuário.</value>
+    <value>Bot de admin. de Resposta Rápida para aux. no gerenc. de respostas de usuários.</value>
     <comment>{MaxLength=80}
 Admin manifest short description</comment>
   </data>
   <data name="AdminManifestShortName" xml:space="preserve">
-    <value>Administrador de Respostas Rápidas</value>
+    <value>Admin. de Respostas Rápidas</value>
     <comment>{MaxLength=30}
 Admin manifest short name</comment>
   </data>
