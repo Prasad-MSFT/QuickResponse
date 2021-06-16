@@ -115,42 +115,6 @@ namespace Microsoft.Teams.Apps.CannedResponses {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Managed user submitted company responses and modified quick response category, label and response text before final submission..
-        /// </summary>
-        public static string AdminManifestFullDescription {
-            get {
-                return ResourceManager.GetString("AdminManifestFullDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick Responses Admin Bot.
-        /// </summary>
-        public static string AdminManifestFullName {
-            get {
-                return ResourceManager.GetString("AdminManifestFullName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick Response admin bot to assist you in managing user submitted responses..
-        /// </summary>
-        public static string AdminManifestShortDescription {
-            get {
-                return ResourceManager.GetString("AdminManifestShortDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick Responses Admin.
-        /// </summary>
-        public static string AdminManifestShortName {
-            get {
-                return ResourceManager.GetString("AdminManifestShortName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Approve.
         /// </summary>
         public static string ApproveButtonTitle {
@@ -311,115 +275,7 @@ namespace Microsoft.Teams.Apps.CannedResponses {
                 return ResourceManager.GetString("CompanyResponsesMenuText", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to companyResponses.
-        /// </summary>
-        public static string ComposeExtensionCommandParameterCompanyResponse {
-            get {
-                return ResourceManager.GetString("ComposeExtensionCommandParameterCompanyResponse", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Enter a keyword or category.
-        /// </summary>
-        public static string ComposeExtensionCommandParameterCompanyResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionCommandParameterCompanyResponseDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to yourResponses.
-        /// </summary>
-        public static string ComposeExtensionCommandParameterYourResponse {
-            get {
-                return ResourceManager.GetString("ComposeExtensionCommandParameterYourResponse", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Enter a keyword or category.
-        /// </summary>
-        public static string ComposeExtensionCommandParameterYourResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionCommandParameterYourResponseDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Suggest new company responses.
-        /// </summary>
-        public static string ComposeExtensionCompanyResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionCompanyResponseDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Suggest new company responses.
-        /// </summary>
-        public static string ComposeExtensionParameterCompanyResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionParameterCompanyResponseDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Manage your quick responses.
-        /// </summary>
-        public static string ComposeExtensionParameterYourResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionParameterYourResponseDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Company responses.
-        /// </summary>
-        public static string ComposeExtensionsCommandCompanyResponses {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandCompanyResponses", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Share company quick responses.
-        /// </summary>
-        public static string ComposeExtensionsCommandCompanyResponsesDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandCompanyResponsesDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Your responses.
-        /// </summary>
-        public static string ComposeExtensionsCommandYourResponses {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandYourResponses", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Share your quick responses.
-        /// </summary>
-        public static string ComposeExtensionsCommandYourResponsesDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandYourResponsesDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Manage your quick responses.
-        /// </summary>
-        public static string ComposeExtensionYourResponseDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionYourResponseDescription", resourceCulture);
-            }
-        }
-        
+
         /// <summary>
         ///   Looks up a localized string similar to Confirm.
         /// </summary>
@@ -489,42 +345,6 @@ namespace Microsoft.Teams.Apps.CannedResponses {
         public static string EditUserResponseSuccessMessage {
             get {
                 return ResourceManager.GetString("EditUserResponseSuccessMessage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Manage your quick responses and share within a team or in personal chat from messaging extension..
-        /// </summary>
-        public static string EndUserManifestFullDescription {
-            get {
-                return ResourceManager.GetString("EndUserManifestFullDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick Responses Bot.
-        /// </summary>
-        public static string EndUserManifestFullName {
-            get {
-                return ResourceManager.GetString("EndUserManifestFullName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Set up and send quick responses using messaging extension..
-        /// </summary>
-        public static string EndUserManifestShortDescription {
-            get {
-                return ResourceManager.GetString("EndUserManifestShortDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick Responses.
-        /// </summary>
-        public static string EndUserManifestShortName {
-            get {
-                return ResourceManager.GetString("EndUserManifestShortName", resourceCulture);
             }
         }
         

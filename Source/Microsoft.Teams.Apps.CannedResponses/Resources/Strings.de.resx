@@ -453,26 +453,6 @@
     <value>Das maximale Limit für genehmigte Firmen Antworten wurde erreicht. Wenden Sie sich an Ihren Administrator, um weitere Details zu erhalten.</value>
     <comment>Max responses message to be displayed in client app.</comment>
   </data>
-  <data name="AdminManifestFullDescription" xml:space="preserve">
-    <value>Verwalteter Benutzer hat Unternehmensantworten übermittelt und vor der endgültigen Übermittlung die Kategorie der geänderten Schnellantworten, die Bezeichnung und den Antworttext geändert.</value>
-    <comment>{MaxLength=4000}
-Admin manifest full description</comment>
-  </data>
-  <data name="AdminManifestFullName" xml:space="preserve">
-    <value>Administrator-Bot für Schnellantworten</value>
-    <comment>{MaxLength=100}
-Admin manifest full name</comment>
-  </data>
-  <data name="AdminManifestShortDescription" xml:space="preserve">
-    <value>Admin-Bot für Schnellantworten zur Unterstützung bei Benutzerantworten.</value>
-    <comment>{MaxLength=80}
-Admin manifest short description</comment>
-  </data>
-  <data name="AdminManifestShortName" xml:space="preserve">
-    <value>Schnellantworten Administrator</value>
-    <comment>{MaxLength=30}
-Admin manifest short name</comment>
-  </data>
   <data name="BotCommandTakeATour" xml:space="preserve">
     <value>Eine Tour machen</value>
     <comment>Bot command take a tour</comment>
@@ -480,73 +460,5 @@ Admin manifest short name</comment>
   <data name="BotCommandTakeATourDescription" xml:space="preserve">
     <value>Eine Tour machen</value>
     <comment>Bot command take a tour description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponse" xml:space="preserve">
-    <value>companyResponses</value>
-    <comment>Compose extension command parameter company response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponseDescription" xml:space="preserve">
-    <value>Schlüsselwort oder Kategorie eingeben</value>
-    <comment>Compose extension command parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponse" xml:space="preserve">
-    <value>yourResponses</value>
-    <comment>Compose extension command parameter your response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponseDescription" xml:space="preserve">
-    <value>Schlüsselwort oder Kategorie eingeben</value>
-    <comment>Compose extension command parameter your response Description</comment>
-  </data>
-  <data name="ComposeExtensionCompanyResponseDescription" xml:space="preserve">
-    <value>Vorschlagen neuer Unternehmensantworten</value>
-    <comment>Compose extension comapny response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterCompanyResponseDescription" xml:space="preserve">
-    <value>Vorschlagen neuer Unternehmensantworten</value>
-    <comment>Compose extension parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterYourResponseDescription" xml:space="preserve">
-    <value>Verwalten Ihrer Schnellantworten</value>
-    <comment>Compose extension parameter your response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponses" xml:space="preserve">
-    <value>Unternehmensantworten</value>
-    <comment>Compose extension command company response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponsesDescription" xml:space="preserve">
-    <value>Freigeben der Unternehmensschnellantworten</value>
-    <comment>Compose extension command company response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponses" xml:space="preserve">
-    <value>Ihre Antworten</value>
-    <comment>Compose extension command your response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponsesDescription" xml:space="preserve">
-    <value>Freigeben Ihrer Schnellantworten</value>
-    <comment>Compose extension command your response description</comment>
-  </data>
-  <data name="ComposeExtensionYourResponseDescription" xml:space="preserve">
-    <value>Verwalten Ihrer Schnellantworten</value>
-    <comment>Compose extension your response description</comment>
-  </data>
-  <data name="EndUserManifestFullDescription" xml:space="preserve">
-    <value>Verwalten Sie Ihre Schnellantworten und teilen Sie sie innerhalb eines Teams oder im persönlichen Chat über die Messaging-Erweiterung.</value>
-    <comment>{MaxLength=4000}
-End user manifest full description</comment>
-  </data>
-  <data name="EndUserManifestFullName" xml:space="preserve">
-    <value>Bot für Schnellantworten</value>
-    <comment>{MaxLength=100}
-End user manifest Full name</comment>
-  </data>
-  <data name="EndUserManifestShortDescription" xml:space="preserve">
-    <value>Einrichten und Senden von Schnellantworten mit der Messaging-Erweiterung.</value>
-    <comment>{MaxLength=80}
-End user manifest short description</comment>
-  </data>
-  <data name="EndUserManifestShortName" xml:space="preserve">
-    <value>Schnellantworten</value>
-    <comment>{MaxLength=30}
-End user manifest short name</comment>
   </data>
 </root>

@@ -453,26 +453,6 @@
     <value>承認済み組織の回答の最大数に達しました。詳細については、管理者にお問い合わせください。</value>
     <comment>Max responses message to be displayed in client app.</comment>
   </data>
-  <data name="AdminManifestFullDescription" xml:space="preserve">
-    <value>ユーザーが送信した会社の応答を管理し、最終的な送信前にクイック応答のカテゴリ、ラベル、応答テキストを変更しました。</value>
-    <comment>{MaxLength=4000}
-Admin manifest full description</comment>
-  </data>
-  <data name="AdminManifestFullName" xml:space="preserve">
-    <value>クイック応答管理者ボット</value>
-    <comment>{MaxLength=100}
-Admin manifest full name</comment>
-  </data>
-  <data name="AdminManifestShortDescription" xml:space="preserve">
-    <value>ユーザーが送信した応答を管理するためのクイック応答管理者用。</value>
-    <comment>{MaxLength=80}
-Admin manifest short description</comment>
-  </data>
-  <data name="AdminManifestShortName" xml:space="preserve">
-    <value>クイック応答管理者</value>
-    <comment>{MaxLength=30}
-Admin manifest short name</comment>
-  </data>
   <data name="BotCommandTakeATour" xml:space="preserve">
     <value>ツアーを開始</value>
     <comment>Bot command take a tour</comment>
@@ -480,73 +460,5 @@ Admin manifest short name</comment>
   <data name="BotCommandTakeATourDescription" xml:space="preserve">
     <value>ツアーを開始</value>
     <comment>Bot command take a tour description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponse" xml:space="preserve">
-    <value>companyResponses</value>
-    <comment>Compose extension command parameter company response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponseDescription" xml:space="preserve">
-    <value>キーワードまたはカテゴリを入力</value>
-    <comment>Compose extension command parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponse" xml:space="preserve">
-    <value>yourResponses</value>
-    <comment>Compose extension command parameter your response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponseDescription" xml:space="preserve">
-    <value>キーワードまたはカテゴリを入力</value>
-    <comment>Compose extension command parameter your response Description</comment>
-  </data>
-  <data name="ComposeExtensionCompanyResponseDescription" xml:space="preserve">
-    <value>会社の新しい応答を提案</value>
-    <comment>Compose extension comapny response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterCompanyResponseDescription" xml:space="preserve">
-    <value>会社の新しい応答を提案</value>
-    <comment>Compose extension parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterYourResponseDescription" xml:space="preserve">
-    <value>クイック応答を管理</value>
-    <comment>Compose extension parameter your response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponses" xml:space="preserve">
-    <value>会社の応答</value>
-    <comment>Compose extension command company response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponsesDescription" xml:space="preserve">
-    <value>会社のクイック応答を共有</value>
-    <comment>Compose extension command company response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponses" xml:space="preserve">
-    <value>あなたの応答</value>
-    <comment>Compose extension command your response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponsesDescription" xml:space="preserve">
-    <value>クイック応答を共有</value>
-    <comment>Compose extension command your response description</comment>
-  </data>
-  <data name="ComposeExtensionYourResponseDescription" xml:space="preserve">
-    <value>クイック応答を管理</value>
-    <comment>Compose extension your response description</comment>
-  </data>
-  <data name="EndUserManifestFullDescription" xml:space="preserve">
-    <value>メッセージングの拡張機能から、クイック応答を管理し、チーム内や個人的なチャット内で共有します。</value>
-    <comment>{MaxLength=4000}
-End user manifest full description</comment>
-  </data>
-  <data name="EndUserManifestFullName" xml:space="preserve">
-    <value>クイック応答ボット</value>
-    <comment>{MaxLength=100}
-End user manifest Full name</comment>
-  </data>
-  <data name="EndUserManifestShortDescription" xml:space="preserve">
-    <value>メッセージングの拡張機能を使用して、クイック応答の設定と送信を行います。</value>
-    <comment>{MaxLength=80}
-End user manifest short description</comment>
-  </data>
-  <data name="EndUserManifestShortName" xml:space="preserve">
-    <value>クイック応答</value>
-    <comment>{MaxLength=30}
-End user manifest short name</comment>
   </data>
 </root>

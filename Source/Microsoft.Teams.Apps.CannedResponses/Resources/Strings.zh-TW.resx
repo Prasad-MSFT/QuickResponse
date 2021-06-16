@@ -453,26 +453,6 @@
     <value>已達核准的公司回應上限。請聯絡您的系統管理員以取得更多詳細資料。</value>
     <comment>Max responses message to be displayed in client app.</comment>
   </data>
-  <data name="AdminManifestFullDescription" xml:space="preserve">
-    <value>受管理的使用者在最終提交前已提交公司回應與修改的快速回應類別、標籤與回應文字。</value>
-    <comment>{MaxLength=4000}
-Admin manifest full description</comment>
-  </data>
-  <data name="AdminManifestFullName" xml:space="preserve">
-    <value>快速回應系統管理 Bot</value>
-    <comment>{MaxLength=100}
-Admin manifest full name</comment>
-  </data>
-  <data name="AdminManifestShortDescription" xml:space="preserve">
-    <value>快速回應系統管理 Bot 可協助您管理使用者提交的回應。</value>
-    <comment>{MaxLength=80}
-Admin manifest short description</comment>
-  </data>
-  <data name="AdminManifestShortName" xml:space="preserve">
-    <value>快速回應系統管理員</value>
-    <comment>{MaxLength=30}
-Admin manifest short name</comment>
-  </data>
   <data name="BotCommandTakeATour" xml:space="preserve">
     <value>導覽</value>
     <comment>Bot command take a tour</comment>
@@ -480,73 +460,5 @@ Admin manifest short name</comment>
   <data name="BotCommandTakeATourDescription" xml:space="preserve">
     <value>導覽</value>
     <comment>Bot command take a tour description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponse" xml:space="preserve">
-    <value>companyResponses</value>
-    <comment>Compose extension command parameter company response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterCompanyResponseDescription" xml:space="preserve">
-    <value>輸入關鍵字或類別</value>
-    <comment>Compose extension command parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponse" xml:space="preserve">
-    <value>yourResponses</value>
-    <comment>Compose extension command parameter your response</comment>
-  </data>
-  <data name="ComposeExtensionCommandParameterYourResponseDescription" xml:space="preserve">
-    <value>輸入關鍵字或類別</value>
-    <comment>Compose extension command parameter your response Description</comment>
-  </data>
-  <data name="ComposeExtensionCompanyResponseDescription" xml:space="preserve">
-    <value>建議新的公司回應</value>
-    <comment>Compose extension comapny response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterCompanyResponseDescription" xml:space="preserve">
-    <value>建議新的公司回應</value>
-    <comment>Compose extension parameter company response description</comment>
-  </data>
-  <data name="ComposeExtensionParameterYourResponseDescription" xml:space="preserve">
-    <value>管理您的快速回應</value>
-    <comment>Compose extension parameter your response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponses" xml:space="preserve">
-    <value>公司回應</value>
-    <comment>Compose extension command company response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandCompanyResponsesDescription" xml:space="preserve">
-    <value>共用公司快速回應</value>
-    <comment>Compose extension command company response description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponses" xml:space="preserve">
-    <value>您的回應</value>
-    <comment>Compose extension command your response</comment>
-  </data>
-  <data name="ComposeExtensionsCommandYourResponsesDescription" xml:space="preserve">
-    <value>共用您的快速回應</value>
-    <comment>Compose extension command your response description</comment>
-  </data>
-  <data name="ComposeExtensionYourResponseDescription" xml:space="preserve">
-    <value>管理您的快速回應</value>
-    <comment>Compose extension your response description</comment>
-  </data>
-  <data name="EndUserManifestFullDescription" xml:space="preserve">
-    <value>管理您的快速回應，並在團隊內或從傳訊擴充功能的個人交談中共用。</value>
-    <comment>{MaxLength=4000}
-End user manifest full description</comment>
-  </data>
-  <data name="EndUserManifestFullName" xml:space="preserve">
-    <value>快速回應 Bot</value>
-    <comment>{MaxLength=100}
-End user manifest Full name</comment>
-  </data>
-  <data name="EndUserManifestShortDescription" xml:space="preserve">
-    <value>使用訊息擴充功能設定並傳送快速回應。</value>
-    <comment>{MaxLength=80}
-End user manifest short description</comment>
-  </data>
-  <data name="EndUserManifestShortName" xml:space="preserve">
-    <value>快速回應</value>
-    <comment>{MaxLength=30}
-End user manifest short name</comment>
   </data>
 </root>
